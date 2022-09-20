@@ -62,7 +62,7 @@
                 android:layout_marginTop="240dp"
                 android:layout_marginEnd="36dp"
                 android:backgroundTint="#10FE8F"
-                android:text="Log in" />
+                android:text="Sign Up" />
 
         </com.google.android.material.card.MaterialCardView>
 
@@ -82,7 +82,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Create a Account"
+            android:text="Login Here"
             android:textAlignment="center"
             android:textColor="#4563BF"
             android:textSize="18sp"
